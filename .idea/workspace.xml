@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="98a3c5b5-f841-4b02-a839-c2b07f51b7f6" name="Changes" comment="Display total marks,average and percentage">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SolvedExamples.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java100Ques/AvgMarksDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java100Ques/AvgMarksDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java100Ques/TempDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java100Ques/TempDemo.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Gd2ehZNv7AkAiaWVKyyIt1M93d" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Java100Ques.collection" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SmallestEle">
+    <configuration name="SmallestEle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java100Ques.SmallestEle" />
+      <module name="SolvedExamples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java100Ques.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Wiley3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java100Ques.collection.Wiley3" />
+      <module name="SolvedExamples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java100Ques.collection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Wiley33" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java100Ques.collection.Wiley33" />
+      <module name="SolvedExamples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java100Ques.collection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Wileysec" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java100Ques.collection.Wileysec" />
+      <module name="SolvedExamples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java100Ques.collection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Xpattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java100Ques.collection.Xpattern" />
+      <module name="SolvedExamples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java100Ques.collection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SmallestEle" />
+        <item itemvalue="Application.Xpattern" />
+        <item itemvalue="Application.Wiley33" />
+        <item itemvalue="Application.Wiley3" />
+        <item itemvalue="Application.Wileysec" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98a3c5b5-f841-4b02-a839-c2b07f51b7f6" name="Changes" comment="" />
+      <created>1666704244594</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666704244594</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Hello world">
+      <created>1666704738605</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666704738605</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Adding two no.">
+      <created>1666705312725</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666705312725</updated>
+    </task>
+    <task id="LOCAL-00003" summary="calculate Simple interest">
+      <created>1666705867355</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666705867355</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Swapping two No.">
+      <created>1666706878232</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1666706878232</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Arithmetic operations">
+      <created>1666971190433</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1666971190433</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Calculate Area and Perimeter of a circle">
+      <created>1666971241065</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1666971241065</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Calculate Area and Perimeter of a rectangle">
+      <created>1666971263557</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1666971263557</updated>
+    </task>
+    <task id="LOCAL-00008" summary=" years,weeks,days Conversion">
+      <created>1666971304323</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1666971304323</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Simple division of two no.">
+      <created>1666971328620</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1666971328620</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Area of equilateral triangle">
+      <created>1667055359430</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1667055359430</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Converting Celcius to farenheit and vice versa">
+      <created>1667055429052</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1667055429052</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Display total marks,average and percentage">
+      <created>1667055471793</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1667055471793</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Hello world" />
+    <MESSAGE value="Adding two no." />
+    <MESSAGE value="calculate Simple interest" />
+    <MESSAGE value="Swapping two No." />
+    <MESSAGE value="Arithmetic operations" />
+    <MESSAGE value="Calculate Area and Perimeter of a circle" />
+    <MESSAGE value="Calculate Area and Perimeter of a rectangle" />
+    <MESSAGE value=" years,weeks,days Conversion" />
+    <MESSAGE value="Simple division of two no." />
+    <MESSAGE value="Area of equilateral triangle" />
+    <MESSAGE value="Converting Celcius to farenheit and vice versa" />
+    <MESSAGE value="Display total marks,average and percentage" />
+    <option name="LAST_COMMIT_MESSAGE" value="Display total marks,average and percentage" />
+  </component>
+</project>

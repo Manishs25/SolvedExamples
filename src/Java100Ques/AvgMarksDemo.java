@@ -1,5 +1,6 @@
-package Java100Ques;
+// package Java100Ques;
 
+import java.text.DecimalFormat;
 import java.util.Scanner;
 
 public class AvgMarksDemo {
@@ -7,6 +8,8 @@ public class AvgMarksDemo {
         float s1, s2, s3, s4, s5, s6;
         double total, average, percentage;
         Scanner scanner = new Scanner(System.in);
+        DecimalFormat df = new DecimalFormat("####0.00");
+
         System.out.println("Enter the marks of Six subjects...");
         System.out.print("Enter the marks of English : ");
         s1 = scanner.nextFloat();
@@ -21,10 +24,10 @@ public class AvgMarksDemo {
         System.out.print("Enter the marks of Mathematics : ");
         s6 = scanner.nextFloat();
         total = (s1 + s2 + s3 + s4 + s5 + s6);
-        System.out.println("Total : " + total);
+        System.out.println("Total : " + df.format(total));
         average = (total / 6);
-        System.out.println("Average : " + average);
+        System.out.println("Average : " + df.format(average)+"%");
         percentage = (total / 600) * 100;
-        System.out.println("Percentage : " + percentage);
+        System.out.println("Percentage : " + df.format(percentage)+"%");
     }
 }
